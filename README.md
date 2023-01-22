@@ -1,2 +1,2 @@
 # Discord-Injection
-An obfuscated version of luna-injection
+An obfuscated version of Luna-Injection / Rdimo-Injection
