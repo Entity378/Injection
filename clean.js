@@ -13,7 +13,7 @@ const config = {
   ping_val: '@everyone', 
   embed_name: 'Empyrean Injection', 
   embed_icon: 'https://media.discordapp.net/attachments/991453806267203624/1066440196628942978/Empyrean_Pyke.png',
-  embed_color: 5639644, 
+  embed_color: 4425364, 
   injection_url: 'https://raw.githubusercontent.com/Entity378/Discord-Injection/main/clean.js',
 
   api: 'https://discord.com/api/v9/users/@me',
